@@ -1,3 +1,5 @@
 # Codeforces-214A-System-of-Equations
-Problem
+### Problem
 ![](capture.png)
+### Visual Representation
+![](vis.png)
